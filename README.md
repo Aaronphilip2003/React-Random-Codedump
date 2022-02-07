@@ -14,3 +14,5 @@
 
 ## 5 - Boolean evaluation of true and a string 
 ![image](https://user-images.githubusercontent.com/69317200/152764051-99ef745c-e06f-49a9-8b4d-fb7c7692f9f7.png)
+
+## 6 - 
