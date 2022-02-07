@@ -7,3 +7,7 @@
 ## 2 
 
 ![image](https://user-images.githubusercontent.com/69317200/152725146-ede597dc-b282-4b89-bb01-e5d0ce425e15.png)
+
+## 3 - Rendering a list 
+
+![image](https://user-images.githubusercontent.com/69317200/152760983-47031d33-1f83-4b33-9ed4-1259ae0eb057.png)
