@@ -17,3 +17,6 @@
 
 ## 6 - Button Clicking
 ![image](https://user-images.githubusercontent.com/69317200/152980800-c9113ed7-2bb2-4fd3-b532-9b4791e8d308.png)
+
+## 7 - Increment Decrement
+![image](https://user-images.githubusercontent.com/69317200/152985044-29cc65f8-fb8a-44e7-954f-cc4e41a5e3f3.png)
