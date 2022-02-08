@@ -20,3 +20,6 @@
 
 ## 7 - Increment Decrement
 ![image](https://user-images.githubusercontent.com/69317200/152985044-29cc65f8-fb8a-44e7-954f-cc4e41a5e3f3.png)
+
+## 8 - Event Handler
+![image](https://user-images.githubusercontent.com/69317200/152986062-e09d0307-d00e-4571-a9c4-151a18d3b084.png)
