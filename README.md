@@ -23,3 +23,6 @@
 
 ## 8 - Event Handler
 ![image](https://user-images.githubusercontent.com/69317200/152986062-e09d0307-d00e-4571-a9c4-151a18d3b084.png)
+
+## 9 - Iniline Event Handler
+![image](https://user-images.githubusercontent.com/69317200/152986421-8e893e4b-0d81-4bbe-977a-7f5fe3d118cc.png)
